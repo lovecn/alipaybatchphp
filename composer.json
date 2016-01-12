@@ -1,0 +1,14 @@
+{
+    "name": "lovecn/alipaybatch",
+    "description": "支付宝转账api，php版。本package尽量保持官方sdk代码和使对autoload做处理。",
+    "authors": [{
+        "name": "lovecn",
+        "email": "mybestpartner@sina.com"
+    }],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "lib/",
+        ]
+    }
+}

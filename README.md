@@ -1,2 +1,2 @@
-# alipaybatchphp
-支付宝转账
+# alipaybatch
+支付宝转账api
