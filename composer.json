@@ -1,5 +1,5 @@
 {
-    "name": "lovecn/alipaybatch",
+    "name": "lovecn/alipaybatchphp",
     "description": "支付宝转账api，php版。本package尽量保持官方sdk代码和使对autoload做处理。",
     "authors": [{
         "name": "lovecn",
