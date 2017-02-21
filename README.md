@@ -1,5 +1,9 @@
 composer require lovecn/alipaybatchphp
+
 [支付宝转账api](https://doc.open.alipay.com/doc2/detail?treeId=64&articleId=103569&docType=1)
+
+以下代码采用laravel框架，如果原生php自行改动
+
 ###同步请求
 ```js
     /**
